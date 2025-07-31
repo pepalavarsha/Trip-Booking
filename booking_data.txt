@@ -1,0 +1,7 @@
+Service: Seven Natural Wonders
+Members: 4
+Start Date: 2025-12-31
+End Date: 2026-01-12
+Name: Mario
+Age: 22
+Contact Number: 987654123
