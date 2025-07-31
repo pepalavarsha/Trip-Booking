@@ -38,8 +38,3 @@ Import the SQL file from the sql/ folder.
 Configure database connection:
 Open the PHP files (process_booking.php, store.php, etc.).
 Update database credentials (host, username, password, dbname).
-
-
-
-📸 Screenshots
-(Add screenshots of your project here, e.g., homepage, booking page, etc.)
