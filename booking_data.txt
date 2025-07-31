@@ -5,3 +5,10 @@ End Date: 2026-01-12
 Name: Mario
 Age: 22
 Contact Number: 987654123
+Service: Seven Wonders
+Members: 4
+Start Date: 2025-12-14
+End Date: 2025-12-31
+Name: Ramesh
+Age: 25
+Contact Number: 9768541235
